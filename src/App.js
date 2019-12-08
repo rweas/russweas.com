@@ -1,13 +1,19 @@
 import React from 'react';
 import logo from './russweas.svg';
 import './App.scss';
+import Nav from './components/Nav.js';
 
 function App() {
   return (
     <div className="App">
+      <Nav />
+
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
+      
+        <h1 className="title has-text-centered">russweas.com</h1>
+
+        {/* <img src={logo} className="App-logo" alt="logo" /> */}
+        {/* <p>
           Welcome to russweas.com.
         </p>
         <a
@@ -33,7 +39,7 @@ function App() {
           rel="noopener noreferrer"
         >
          Resume
-        </a>
+        </a> */}
       </header>
     </div>
   );
