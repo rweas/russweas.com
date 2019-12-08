@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "russweas.com/static/css/main.d1b05096.chunk.css",
-    "main.js": "russweas.com/static/js/main.a8d4e4bf.chunk.js",
-    "main.js.map": "russweas.com/static/js/main.a8d4e4bf.chunk.js.map",
+    "main.css": "russweas.com/static/css/main.3a35d93a.chunk.css",
+    "main.js": "russweas.com/static/js/main.c05e9786.chunk.js",
+    "main.js.map": "russweas.com/static/js/main.c05e9786.chunk.js.map",
     "runtime-main.js": "russweas.com/static/js/runtime-main.a270a01b.js",
     "runtime-main.js.map": "russweas.com/static/js/runtime-main.a270a01b.js.map",
     "static/js/2.d1cee8ec.chunk.js": "russweas.com/static/js/2.d1cee8ec.chunk.js",
     "static/js/2.d1cee8ec.chunk.js.map": "russweas.com/static/js/2.d1cee8ec.chunk.js.map",
     "index.html": "russweas.com/index.html",
-    "precache-manifest.c4c2e026099ca4690dd733bbaa6c35a0.js": "russweas.com/precache-manifest.c4c2e026099ca4690dd733bbaa6c35a0.js",
+    "precache-manifest.f4faf35cd1fe305e2a02f654d7116485.js": "russweas.com/precache-manifest.f4faf35cd1fe305e2a02f654d7116485.js",
     "service-worker.js": "russweas.com/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "russweas.com/static/css/main.d1b05096.chunk.css.map",
+    "static/css/main.3a35d93a.chunk.css.map": "russweas.com/static/css/main.3a35d93a.chunk.css.map",
     "static/js/2.d1cee8ec.chunk.js.LICENSE": "russweas.com/static/js/2.d1cee8ec.chunk.js.LICENSE",
-    "static/media/logo.svg": "russweas.com/static/media/logo.5d5d9eef.svg"
+    "static/media/russweas.svg": "russweas.com/static/media/russweas.733dbaa7.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a270a01b.js",
     "static/js/2.d1cee8ec.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.a8d4e4bf.chunk.js"
+    "static/css/main.3a35d93a.chunk.css",
+    "static/js/main.c05e9786.chunk.js"
   ]
 }
