@@ -1,3 +1,5 @@
+https://coolors.co/222222-ffffff-4b4e6d-84dcc6-95a3b3
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
