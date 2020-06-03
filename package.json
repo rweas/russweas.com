@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "braces": "^3.0.2",
     "bulma": "^0.8.2",
     "postcss": "^7.0.32"
   },
