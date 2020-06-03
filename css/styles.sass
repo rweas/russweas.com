@@ -1,0 +1,48 @@
+@charset "utf-8"
+$size-5: 20px
+$size-6: 16px
+$nav-height: 44px
+$family-sans-serif: "Myriad Set Pro", "Myriad Pro", "Helvetica Neue", Helvetica, Arial, sans-serif
+
+$body-background-color: hsl(0, 0%, 14%)
+$body-color: hsl(0, 0%, 95%)
+
+// $title-color: $body-color
+@import "../node_modules/bulma/bulma"
+html, body
+    height: 100%
+.links
+    background: $body-background-color
+.mainContent
+    background: url('http://127.0.0.1:5500/img/1805059_ZR_146_Aerials.jpg') center center
+    background-size: cover
+
+    height: 100%
+    .alpha-bg
+        background: hsla(0, 0, 0, 80%)
+        height: 80%
+        border-radius: 14px
+        padding: 15px
+        // margin-top: 120px
+
+// .hero-head
+//     padding-left: 10px
+@media screen and (min-width: 1088px)
+.navbar-center
+    display: flex
+    justify-content: stretch
+    align-items: stretch
+    flex-grow: 1
+    flex-shrink: 0
+    flex-direction: row
+
+.navbar-link,.navbar-item
+    align-items: center
+    display: flex
+    flex-basis: auto
+    flex-grow: 1
+    flex-shrink: 0
+    justify-content: center
+
+.navbar-dropdown .navbar-item
+    justify-content: left
