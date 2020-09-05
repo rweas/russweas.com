@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^6.3.3",
-    "node-sass": "^3.13.1",
+    "node-sass": "^4.13.1",
     "postcss-cli": "^2.5.1"
   },
   "scripts": {
